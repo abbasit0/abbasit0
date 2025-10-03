@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @abbasit0
-- 👀 I’m interested in coding..
-- 🌱 I’m currently learning pythom...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Abdul Basit  
 
-<!---
-abbasit0/abbasit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about learning programming, building projects, and sharing my progress.  
+📚 Currently exploring **Python**.  
+🚀 I share my journey on **LinkedIn** while uploading projects here on GitHub.  
+
+---
+
+## 🛠️ Tech & Tools
+- Languages: **Python**
+- Concepts: **Modules | OOP | File Handling**
+- Interests: Problem Solving, Project Building
+
+---
+
+## 🌱 Current Goals
+- Master **Python** concepts 
+- Build more **Python projects**  
+- Document and share progress on **LinkedIn**  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abdul-basit-b6b22b388/)  
+- [GitHub](https://github.com/abbasit0)  
+
+---
+
+⭐ **Fun Fact:** I started my GitHub journey to share even my small beginner projects — every step counts!
